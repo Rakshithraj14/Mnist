@@ -8,4 +8,4 @@ This Python script downloads the MNIST handwritten digits dataset and saves it a
 
 - Downloads 4 MNIST files (images and labels)
 - Converts them into NumPy arrays
-- Saves everything into one file: `mnist.pkl`
+- Saves everything into one file: `mnist.py`
