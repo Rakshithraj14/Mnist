@@ -68,3 +68,7 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ 
